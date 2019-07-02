@@ -1,0 +1,162 @@
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+
+    
+    A {
+      text-decoration: none;
+      color: black;}
+    .specialClass {
+      font-family:garamond; 
+      font-size:8pt;
+      color:green;
+      font-weight:bold;
+      text-decoration:underline}
+ 
+
+
+table {
+	font-size: 12px;
+	color: #333333;
+}
+.td-01 {
+	background-color: #edf5f9;
+}
+.td-03 {
+	background-color: ecf9ff;
+}
+.td-04 {
+	background-color: c8e2f3;
+}
+
+.td-02 {
+	background-color: #FFFFFF;
+}
+
+.text-14cuhei {
+	font-size: 14px;
+	font-weight: bold;
+	color: #333333;
+}
+.input-01 {
+	background-color: #f2f9ff;
+	border: 1px solid #94bcdc;
+	height: 18px;
+}
+.text-12cuhei {
+	font-size: 12px;
+	font-weight: bold;
+	color: #333333;
+}
+
+.input-02 {
+	background-color: #f2f9ff;
+	border: 1px solid #94bcdc;
+}
+.midtiao-bg {
+	background-image: url(../images/images_29.jpg);
+	background-repeat: no-repeat;
+	background-position: left top;
+	background-color: #9dcdfe;
+	width: 6px;
+}
+.bg {
+	background-color: #9fcefe;
+	background-image: url(../images/images_42.jpg);
+	background-repeat: repeat-x;
+	background-position: top;
+}
+.text-red12cu {
+	font-size: 12px;
+	font-weight: bold;
+	color: #CC0000;
+}
+.text-red12 {
+	font-size: 12px;
+	color: #FF0000;
+}
+
+.main-bg001 {
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	border-top-color: #0c71d9;
+	border-right-color: #0c71d9;
+	border-bottom-color: #0c71d9;
+	border-left-color: #0c71d9;
+}
+.daohang-bg {
+	background-color: #62d7ef;
+	background-image: url(../images/images_09.jpg);
+	background-repeat: no-repeat;
+	background-position: left;
+	height: 30px;
+}
+.left-hybg {
+	background-image: url(../images/index_40.jpg);
+	background-repeat: no-repeat;
+	background-position: left bottom;
+	font-size: 12px;
+	font-weight: bold;
+	color: #CC0000;
+}
+
+/*红色色连接*/
+a.link-red:link {font-size:12px;font-family:宋体;color: #DD7403;text-decoration:none;}
+a.link-red:visited {font-size:12px;font-family:宋体;color:#DD7403;text-decoration:none;}
+a.link-red:active {font-size:12px;font-family:宋体;color: #DDB103;text-decoration:none;}
+a.link-red:hover {font-size:12px;font-family:宋体;color: #DDB103;text-decoration:none;}
+
+/*红色色连接2*/
+a.link-red2:link {font-size:14px;font-family:宋体;color: #DD7403;text-decoration:none;font-weight: bold;}
+a.link-red2:visited {font-size:14px;font-family:宋体;color:#DD7403;text-decoration:none;font-weight: bold;}
+a.link-red2:active {font-size:14px;font-family:宋体;color: #DDB103;text-decoration:none;font-weight: bold;}
+a.link-red2:hover {font-size:14px;font-family:宋体;color: #DDB103;text-decoration:none;font-weight: bold;}
+
+/*绿色色连接*/
+a.link-green:link {font-size:14px;font-family:宋体;color: #009900;text-decoration:none;font-weight: bold;}
+a.link-green:visited {font-size:14px;font-family:宋体;color: #009900;text-decoration:none;font-weight: bold;}
+a.link-green:active {font-size:18px;font-family:宋体;color:  #8EBD00;text-decoration:none;font-weight: bold;}
+a.link-green:hover {font-size:18px;font-family:宋体;color:  #8EBD00;text-decoration:none;font-weight: bold;}
+
+
+/*兰色色连接*/
+a.link-blue:link {font-size:12px;font-family:宋体;color: #001D64;text-decoration:none;}
+a.link-blue:visited {font-size:12px;font-family:宋体;color:#001D64;text-decoration:none;}
+a.link-blue:active {font-size:12px;font-family:宋体;color: #FFB502;text-decoration:none;}
+a.link-blue:hover {font-size:12px;font-family:宋体;color: #FFB502;text-decoration:none;}
+
+.style6 {
+	color: #003399;
+	font-weight: bold;
+}
+
+#tag_table .tag_on{
+	width: 152px;
+	height: 34px;
+	background: url(../images/tag_on.gif) no-repeat;
+	text-align: center;
+	color:#ffffff;
+	font-size: 14px;
+	font-weight: bold;
+}
+#tag_table .tag_on a{
+	color:#ffffff;
+	font-size: 14px;
+	font-weight: bold;
+	text-decoration: none;
+}
+#tag_table .tag_on a:hover{
+	color:#ffffff;
+	font-size: 14px;
+	font-weight: bold;
+	text-decoration: none;
+}

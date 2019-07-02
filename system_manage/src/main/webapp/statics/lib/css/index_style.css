@@ -1,0 +1,345 @@
+/* CSS Document */
+
+body{
+	margin:0px;
+	background-color:#FFFFFF;
+}
+td{
+	font-size:12px;
+	line-height:18px;
+}
+a{
+	font-size:12px;
+	text-decoration:none;
+	color:#000000;
+}
+
+/* 头样式 */
+.headbg{
+	background-image:url(../image/headbg_01.jpg);
+	height:126px;
+	width:1000px;
+	}
+	
+/* 主体背景颜色 */
+.mainbg{
+	background-color:#c3d8f2;
+}
+
+/* 三块背景白色 */
+.tdbg{
+	background-color:#FFFFFF;
+}
+
+/* 左侧td宽度 */
+.lefttd{
+	width:215px;
+	padding-top:11px;
+	padding-left:10px;
+	padding-right:5px;
+	padding-bottom:10px;
+}
+
+/* 右侧td宽度 */
+.rihgttd{
+	width:255px;
+	padding-top:11px;
+	padding-left:5px;
+	padding-right:10px;
+	padding-bottom:10px;
+}
+
+/* 中间td宽度 */
+.middletd{
+	padding-top:5px;
+	padding-bottom:5px;
+}
+
+/* 标题样式 */
+.title{
+	font-size:13px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight:bold;
+}
+
+.titleleft{
+	height:26px;
+	font-size:13px;
+	font-weight:bold;
+	padding-left:5px;
+	vertical-align:middle;
+	line-height:16px;
+	background-image: url(../image/tit-bg_58.jpg);
+	background-repeat: repeat-x;
+	color: #FFFFFF;
+}
+.titleleft a{
+	height:26px;
+	font-size:12px;
+	line-height:16px;
+	text-decoration:none;
+	font-weight:normal;
+	color:#CC3300;
+	padding-right:5px;
+	padding-top:5px;
+	background-image: url(../image/tit-bg_58.jpg);
+	background-repeat: repeat-x;
+}
+
+
+
+/* 左侧列表样式 */
+
+.list{
+	line-height:22px;
+	color:#6D6E71;
+	text-decoration:none;
+	padding:5px;
+}
+.list a{
+	line-height:22px;
+	color:#6D6E71;
+	text-decoration:none;
+}
+
+/*　中部列表样式　*/
+.listtd{
+	padding-top:5px;
+}
+
+.list2{
+	line-height:22px;
+	color:#BCBEC0;
+	text-decoration:none;
+	height:22px;
+}
+.list2 a{
+	line-height:22px;
+	color:#6D6E71;
+	text-decoration:none;
+	height:22px;	
+}
+.list2 a:hover{
+	text-decoration:underline;	
+}
+
+/*　中部list分类样式　*/
+a.part{
+	color:#FD8300;
+	text-decoration:none;
+}
+a.part:hover{
+	text-decoration:underline;
+}
+
+/*　中部title样式　*/
+.titletd{
+	background-image:url(../image/index_87.gif);
+	background-repeat:repeat-x;
+	height:22px;
+	padding-left:10px;
+	font-size:13px;
+	font-weight:bold;
+	color:#2367C6
+}
+
+/* 常用工具样式 */
+
+.tool a{
+	background-image:url(../image/index_112.gif);
+	background-position:left top;
+	background-repeat:no-repeat;
+	height:25px;
+	width:87px;
+	line-height:22px;
+	color:#FFFFFF;
+	text-decoration:none;
+	padding-left:20px;
+	padding-top:1px;
+	display:block;
+}
+
+/* 标签样式 */
+
+.lable1{
+	background-image:url(../image/index_28.gif);
+	background-position:left bottom;
+	background-repeat:no-repeat;
+	height:24px;
+	width:80px;
+	text-align:center;
+	vertical-align:text-bottom;
+}
+.lable1 a{
+	color:#35AEC9;
+	font-size:12px;
+	line-height:14px;
+	font-weight:bold;
+	text-decoration:none;
+	width:80px;
+}
+
+.lable2{
+	background-image:url(../image/index_30.gif);
+	background-position:left bottom;
+	background-repeat:no-repeat;
+	height:24px;
+	width:77px;
+	text-align:center;
+	vertical-align:text-bottom;
+}
+.lable2 a{
+	color:#3F3F3F;
+	line-height:14px;
+	font-size:12px;
+	font-weight:bold;
+	text-decoration:none;
+	width:77px;
+}
+
+.lable3{
+	background-image:url(../image/index_67.gif);
+	background-position:left bottom;
+	background-repeat:no-repeat;
+	height:24px;
+	width:80px;
+	text-align:center;
+	vertical-align:text-bottom;
+}
+
+.lable3 a{
+	color:#FF8400;
+	line-height:14px;	
+	font-size:12px;
+	font-weight:bold;
+	text-decoration:none;
+}
+
+.lable4{
+	background-image:url(../image/index_68.gif);
+	background-position:left bottom;
+	background-repeat:no-repeat;
+	height:24px;
+	width:80px;
+	text-align:center;
+	vertical-align:text-bottom;
+}
+.lable4 a{
+	width:80px;
+	color:#3F3F3F;
+	line-height:14px;
+	font-size:12px;
+	font-weight:bold;
+	text-decoration:none;
+}
+
+/* 在线时长样式 */
+
+.timelist{
+	padding-top:2px;
+	padding-bottom:2px;
+	padding-left:25px;
+	font-size:12px;
+	color:#000000;
+	background-position:left center; 
+	background-repeat:no-repeat;
+	vertical-align:middle;
+}
+
+/* 右侧title样式 */
+
+.titleright{
+	background-image:url(../image/tit-bg_58.jpg);
+	background-repeat:repeat-x;
+	height:26px;
+	font-size:13px;
+	font-weight:bold;
+	color:#f2f50b;
+	line-height:26px;
+}
+.moreright{
+	background-image:url(../image/tit-bg_58.jpg);
+	background-repeat:repeat-x;
+	height:26px;
+	width:39px;
+	text-align:center;
+}
+.moreright a{
+	font-size:12px;
+	text-decoration:none;
+	color:#CC3300;
+}
+
+.titleright2{
+	background-image:url(../image/tit-bg_80.jpg);
+	background-repeat:repeat-x;
+	height:25px;
+	font-size:13px;
+	font-weight:bold;
+	color:#FFFFFF;
+	line-height:26px;
+}
+.moreright2{
+	background-image:url(../image/tit-bg_80.jpg);
+	height:26px;
+	width:39px;
+	text-align:center;
+	background-repeat: repeat-x;
+}
+.moreright2 a{
+	font-size:12px;
+	text-decoration:none;
+	color:#CC3300;
+}
+
+/* 右侧list样式 */
+
+.listright{
+	font-size:12px;
+	line-height:22px;
+	color:#000000;
+	border-bottom: 1px #CFCFCF dotted;
+}
+.listright a{
+	color:#6D6E71;
+	text-decoration:none;
+}
+
+/* 业务办公系统样式 */
+
+.bu_sys a{
+	border:1px #D1D1D1 solid;
+	background-image:url(../image/index_98.gif);
+	background-repeat:repeat-x;
+	hieght:21px;
+	padding-left:15px;
+	font-size:12px;
+	font-weight:bold;
+	display:block;
+	color:#9D9D9D;
+}
+.bu_sys a:hover{
+	border:1px #BED6EF solid;
+	background-image:url(../image/index_95.gif);
+	color:#89A9CA;
+}
+
+.nav {
+	background-image:url(../image/navbg_03.gif);
+	background-repeat:repeat-x;
+	color:#ffffff;
+	font-size:12px;
+	font-weight:bold;
+	line-height:28px;
+	height:28px;
+	width:825px;
+	border-left:#4176B4 1px solid;
+}
+
+.nav a{
+	color:#ffffff;
+	font-size:12px;
+	font-weight:bold;
+	line-height:28px;
+	text-decoration:none;
+}
